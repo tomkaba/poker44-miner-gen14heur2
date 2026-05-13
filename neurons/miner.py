@@ -120,7 +120,7 @@ class Miner(BaseMinerNeuron):
                 "license": "MIT",
                 "repo_url": "https://github.com/tomkaba/poker44-miner-gen14heur2",
                 "repo_commit": git_commit,
-                "notes": "Gen14heur1 profile-based healthy-feature heuristic miner.",
+                "notes": "Gen14heur2 profile-based healthy-feature heuristic miner.",
                 "open_source": True,
                 "inference_mode": "remote",
                 "training_data_statement": "No validator-private data used.",

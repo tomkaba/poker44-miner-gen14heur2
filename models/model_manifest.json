@@ -1,5 +1,5 @@
 {
-    "repo_commit": "5f08bc0022c2eafb62183b0aa63ab328e6dc2b6c",
+    "repo_commit": "a840bdf793098c5f542916117d8ca00c5ed0cb17",
     "implementation_files": [
         "models/gen14_profile.json",
         "neurons/miner.py",
@@ -12,5 +12,6 @@
         "poker44/utils/model_manifest.py",
         "poker44/validator/synapse.py"
     ],
-    "implementation_sha256": "f76c0cff6534613b83b3928dafd851052b3cf5c20fb70c311cd5024e4abcdb54"
+    "implementation_sha256": "b3d16dbf57900754e48b1ab840b09f4708a26d5d56fc25cf274e4e2afce60829",
+    "notes": "Gen14heur2 profile-based healthy-feature heuristic miner."
 }
